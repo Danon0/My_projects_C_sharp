@@ -1,0 +1,14 @@
+D:\shedr\Projects\TaskHub\bin\Debug\net8.0\TaskHub.exe
+D:\shedr\Projects\TaskHub\bin\Debug\net8.0\TaskHub.deps.json
+D:\shedr\Projects\TaskHub\bin\Debug\net8.0\TaskHub.runtimeconfig.json
+D:\shedr\Projects\TaskHub\bin\Debug\net8.0\TaskHub.dll
+D:\shedr\Projects\TaskHub\bin\Debug\net8.0\TaskHub.pdb
+D:\shedr\Projects\TaskHub\obj\Debug\net8.0\TaskHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\shedr\Projects\TaskHub\obj\Debug\net8.0\TaskHub.AssemblyInfoInputs.cache
+D:\shedr\Projects\TaskHub\obj\Debug\net8.0\TaskHub.AssemblyInfo.cs
+D:\shedr\Projects\TaskHub\obj\Debug\net8.0\TaskHub.csproj.CoreCompileInputs.cache
+D:\shedr\Projects\TaskHub\obj\Debug\net8.0\TaskHub.dll
+D:\shedr\Projects\TaskHub\obj\Debug\net8.0\refint\TaskHub.dll
+D:\shedr\Projects\TaskHub\obj\Debug\net8.0\TaskHub.pdb
+D:\shedr\Projects\TaskHub\obj\Debug\net8.0\TaskHub.genruntimeconfig.cache
+D:\shedr\Projects\TaskHub\obj\Debug\net8.0\ref\TaskHub.dll
